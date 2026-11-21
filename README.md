@@ -55,6 +55,7 @@ Key Findings
 
 📷 Dashboard Preview
 
+
 Main Dashboard
 
 <img width="608" height="344" alt="Main Dashboard" src="https://github.com/user-attachments/assets/a83871c3-2b73-41fa-b1bf-a591a9cc92ff" />
@@ -69,6 +70,15 @@ Executive Business Insights
 Watch the complete dashboard presentation here:
 
 https://drive.google.com/file/d/1Sg4vaff_CACnO0pIOszCuCeAA2k_8fh_/view?usp=sharing
+
+
+📈 Key Business Insights
+
+Regular Customers represent 56.19% of total users.
+Positive feedback rate exceeds 81%.
+Customers aged 21–25 are the most active segment.
+Students form the largest customer category.
+Customer demand is concentrated in key Bengaluru locations.
 
 
 🚀 Skills Demonstrated
