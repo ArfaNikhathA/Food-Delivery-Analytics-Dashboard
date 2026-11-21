@@ -75,9 +75,13 @@ https://drive.google.com/file/d/1Sg4vaff_CACnO0pIOszCuCeAA2k_8fh_/view?usp=shari
 📈 Key Business Insights
 
 Regular Customers represent 56.19% of total users.
+
 Positive feedback rate exceeds 81%.
+
 Customers aged 21–25 are the most active segment.
+
 Students form the largest customer category.
+
 Customer demand is concentrated in key Bengaluru locations.
 
 
