@@ -1,5 +1,5 @@
 
-🍔 Food Delivery Analytics Dashboard
+**🍔 Food Delivery Analytics Dashboard**
 
 📌 Project Overview
 
@@ -56,6 +56,7 @@ Key Findings
 📷 Dashboard Preview
 
 Main Dashboard
+
 <img width="608" height="344" alt="Main Dashboard" src="https://github.com/user-attachments/assets/a83871c3-2b73-41fa-b1bf-a591a9cc92ff" />
 
 Executive Business Insights
