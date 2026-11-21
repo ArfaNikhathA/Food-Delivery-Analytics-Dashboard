@@ -103,7 +103,5 @@ Arfa Nikhath A
 
 Aspiring Data Analyst | Power BI Enthusiast
 
-LinkedIn Profile: https://www.linkedin.com/in/arfa-nikhath-a-828346377?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-GitHub Profile: github.com/ArfaNikhathA
 
