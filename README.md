@@ -54,6 +54,7 @@ Key Findings
 
 
 📷 Dashboard Preview
+
 Main Dashboard
 <img width="608" height="344" alt="Main Dashboard" src="https://github.com/user-attachments/assets/a83871c3-2b73-41fa-b1bf-a591a9cc92ff" />
 
@@ -67,3 +68,22 @@ Executive Business Insights
 Watch the complete dashboard presentation here:
 
 https://drive.google.com/file/d/1Sg4vaff_CACnO0pIOszCuCeAA2k_8fh_/view?usp=sharing
+
+
+🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- KPI Development
+- DAX Calculations
+- Dashboard Design
+- Business Analysis
+- Data Visualization
+
+
+👩‍💻 Author
+
+Arfa Nikhath A
+
+
